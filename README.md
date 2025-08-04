@@ -126,7 +126,7 @@ API Integrations → Response Generation → User Interface
 
 ## 📞 Support
 
-- **Contact**: kumarrahulji050103@gmail.com
+- **Contact**: divyaranagzb2@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -141,3 +141,4 @@ API Integrations → Response Generation → User Interface
 **Built with ❤️ for travelers by travelers**
 
 _Making travel planning intelligent, personalized, and effortless._
+
